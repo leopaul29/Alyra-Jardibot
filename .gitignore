@@ -19,4 +19,4 @@ build/
 */dataset/*
 
 # models
-model
+./model/*
