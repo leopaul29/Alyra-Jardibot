@@ -1,1 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# IDEs (Visual Studio Code)
+.vscode/
+
+# Ignore distribution folders
+dist/
+build/
+*.egg-info/
+
+# dataset
 */dataset/*
+
+# models
+model
