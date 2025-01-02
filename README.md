@@ -34,7 +34,7 @@ pip install Pillow
 
 ## run le backend endpoint
 
-fastapi dev ./app/main
+fastapi dev .\app\main.py
 
 - serveur: http://localhost:8000/
 - swagger: http://localhost:8000/docs
