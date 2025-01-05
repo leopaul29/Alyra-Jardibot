@@ -16,7 +16,7 @@ build/
 *.egg-info/
 
 # dataset
-*/dataset/*
+projet2/datasets/*
 
 # models
-model/*
+**/model/*
