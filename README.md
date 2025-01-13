@@ -1,5 +1,10 @@
 # Alyra Jardibot
 
+Dans le cadre de la formation Alyra, ce projet contient 2 sous projets:
+
+- projet1: machine learning
+- projet2: deep learning + MlOPs
+
 ## lib
 
 - pandas
@@ -25,16 +30,17 @@ installer toutes les lib
 desactiver la venv
 `deactivate`
 
-### import solo
-
-pip install "fastapi[standard]"
-pip install pandas
-pip install tensorflow==2.18
-pip install Pillow
-
 ## run le backend endpoint
 
-fastapi dev .\app\main.py
+use the command line:
+
+`fastapi dev .\app\main.py`
+
+test live on urls:
 
 - serveur: http://localhost:8000/
 - swagger: http://localhost:8000/docs
+
+```
+
+```
